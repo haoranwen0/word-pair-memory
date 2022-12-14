@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wordpairmemory-dev-113323-authRole",
+      "UnauthRoleArn": "arn:aws:iam::062943963762:role/amplify-wordpairmemory-dev-113323-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::062943963762:role/amplify-wordpairmemory-dev-113323-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-wordpairmemory-dev-113323-deployment",
+      "UnauthRoleName": "amplify-wordpairmemory-dev-113323-unauthRole",
+      "StackName": "amplify-wordpairmemory-dev-113323",
+      "StackId": "arn:aws:cloudformation:us-east-1:062943963762:stack/amplify-wordpairmemory-dev-113323/077ae4c0-7bcd-11ed-a812-125d0fa00def",
+      "AmplifyAppId": "dnp86dxpaofpq"
+    }
+  }
+}
