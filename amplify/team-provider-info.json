@@ -10,6 +10,17 @@
       "StackName": "amplify-wordpairmemory-dev-113323",
       "StackId": "arn:aws:cloudformation:us-east-1:062943963762:stack/amplify-wordpairmemory-dev-113323/077ae4c0-7bcd-11ed-a812-125d0fa00def",
       "AmplifyAppId": "dnp86dxpaofpq"
+    },
+    "categories": {
+      "api": {
+        "wordpairmemory": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dnp86dxpaofpq",
+          "type": "manual"
+        }
+      }
     }
   }
 }
